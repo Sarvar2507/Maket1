@@ -81,3 +81,25 @@ body {
     color: white;
     background-color: #F04037;
 }
+
+.section_1 {
+    background-color: #5454D4;
+    color: white;
+    margin-top: 90px;
+}
+.big_box {
+    display: flex;
+    justify-content: space-between;
+}
+.box_1 {
+    width: 35%;
+    padding-top: 50px;
+}
+.that_text {
+    font-family: CircularStd;
+    line-height: 31px;
+    margin-top: 20px;
+}
+.text_taylor {
+    margin-top: 15px;
+}
