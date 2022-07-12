@@ -83,6 +83,7 @@ body {
 }
 
 .section_1 {
+    height: 300px;
     background-color: #5454D4;
     color: white;
     margin-top: 90px;
@@ -102,4 +103,42 @@ body {
 }
 .text_taylor {
     margin-top: 15px;
+}
+
+.section_2 .container {
+    margin-top: 90px;
+    display: flex;
+}
+.fun_title {
+    padding-top: 15px;
+    width: 55%;
+    font-size: 40px;
+}
+.fun_text {
+    margin-top: 15px;
+    width: 75%;
+    font-size: 20px;
+    line-height: 30px;
+}
+.box_trip {
+    display: flex;
+    margin-top: 40px;
+}
+.box_number {
+    width: 49px;
+    height: 49px;
+    background-color: #5454D4;
+    color: white;
+    border-radius: 50%;
+    font-weight: bold;
+    padding: 15px 19px;
+}
+.find_title {
+    margin-left: 15px;
+}
+.find_text {
+    font-size: 19px;
+    width: 45%;
+    margin-left: 15px;
+    margin-top: 10px;
 }
