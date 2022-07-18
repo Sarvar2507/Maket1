@@ -142,3 +142,16 @@ body {
     margin-left: 15px;
     margin-top: 10px;
 }
+
+.section_3 .container {
+    margin-top: 90px;
+}
+.big_box_less {
+    position: relative;
+}
+.less_img3 {
+    position: absolute;
+    top: 100%;
+    right: 81%;
+    margin-top: 10px;
+}
